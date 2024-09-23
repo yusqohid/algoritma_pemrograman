@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="pratikum2 no 1"/>
+        <attribute name="authors" value="yusqo"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-09 02:38:13 PM"/>
+        <attribute name="created" value="eXVzcW87QUNFUi1ZVVNRT0hJRDsyMDI0LTA5LTA5OzAyOjI3OjUxIFBNOzI4MjI="/>
+        <attribute name="edited" value="eXVzcW87QUNFUi1ZVVNRT0hJRDsyMDI0LTA5LTA5OzAyOjM4OjEzIFBNOzI7MjkzMQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <input variable="Waktu"/>
+            <assign variable="totalDetik" expression="(jj*3600)+(mm*60)+(dd)"/>
+            <output expression="totalDetik" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

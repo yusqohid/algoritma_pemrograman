@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725707954 source:/home/yusqohid/Documents/AlPro/Pratikum/2 pratikum mengukur panjang tali.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
